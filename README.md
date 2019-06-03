@@ -1,2 +1,2 @@
-# DDFunctionApp1
+# DioDocsAzFunctions
 DioDocsをAzure Functionsで利用する。
